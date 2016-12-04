@@ -1,0 +1,30 @@
+* {
+  transition: width 1s;
+}
+body {
+  margin: 0
+}
+
+div {
+  height: 100px;
+  opacity: 0.8;
+}
+
+.red {
+  background: red;
+}
+
+.black {
+  background: black;
+}
+
+.blue {
+  background: blue;
+}
+
+.fixed {
+  position: fixed;;
+  bottom: 0;
+  left: 0;
+  width:100%;
+}
